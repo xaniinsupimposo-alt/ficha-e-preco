@@ -2,6 +2,8 @@
 
 Página única, pública e gratuita, para a verificação da Kiwify e para divulgação.
 
+**Endereço público:** https://xaniinsupimposo-alt.github.io/ficha-e-preco/
+
 ## Como atualizar o link de compra
 
 1. Abra o arquivo `config.js`.
