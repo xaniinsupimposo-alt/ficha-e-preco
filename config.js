@@ -11,4 +11,4 @@
  * Depois de salvar, publique de novo esta pasta (GitHub Pages:
  * faça o commit e o push do arquivo config.js).
  * ============================================================ */
-window.CHECKOUT_URL = "#";
+window.CHECKOUT_URL = "https://pay.kiwify.com.br/SyIGCOC";
